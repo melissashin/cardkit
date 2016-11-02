@@ -53,11 +53,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                 width: 650,
                 height: 320
             }, {
-<<<<<<< HEAD
                 name: "Video",
-=======
-                name: "Video - dist scripts",
->>>>>>> parent of 54efe61... Update scripts.bc77e49c.js
                 width: 640,
                 height: 360
             }],
@@ -572,4 +568,3 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
         }
     }
 });
-    
