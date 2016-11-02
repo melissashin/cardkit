@@ -177,7 +177,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                     subtext: {
                         name: "Subtext",
                         type: "text",
-                        text: "Created by The Times of London\nAvailable on GitHub at github.com/times/cardkit",
+                        text: "—Attribute here",
                         fill: function() {
                             return a.theme.quote
                         },
@@ -188,7 +188,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                             return a.theme.headlineFont
                         },
                         textAnchor: "middle",
-                        x: "50%",
+                        x: "80%",
                         yAttach: {
                             element: "headline"
                         },
