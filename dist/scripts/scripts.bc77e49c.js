@@ -145,7 +145,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                     headline: {
                         name: "Headline",
                         type: "text",
-                        text: "CardKit is a powerful, configurable\nimage editor, that can be run right\ninside your web browser.",
+                        text: "\"CardKit is a powerful, configurable\nimage editor, that can be run right\ninside your web browser.\" ",
                         fill: function() {
                             return a.theme.quote
                         },
