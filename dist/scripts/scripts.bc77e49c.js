@@ -187,7 +187,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                         fontFamily: function() {
                             return a.theme.headlineFont
                         },
-                        textAnchor: "middle",
+                        textAnchor: "right",
                         x: "80%",
                         yAttach: {
                             element: "headline"
