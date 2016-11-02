@@ -123,7 +123,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                         src: function() {
                             return a.theme.logoSrc
                         },
-                        x: 600,
+                        x: "75%",
                         y: function() {
                             return a.size.height - 62
                         },
@@ -138,7 +138,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                         },
                         draggable: {
                             x: !1,
-                            y: !0
+                            y: !1
                         },
                         showHoverArea: !0
                     },
