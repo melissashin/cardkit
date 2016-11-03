@@ -121,7 +121,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                         src: function() {
                             return a.theme.backfixSrc
                         },
-                        x: "67%",
+                        x: "55%",
                         y: 0,
                         preserveAspectRatio: "xMinYMin meet",
                         editable: {
