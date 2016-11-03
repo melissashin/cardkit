@@ -115,7 +115,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                   backfix: {
                         name: "Right-side background",
                         type: "image",
-                        width: "50%",
+                        width: "75%",
                         height: "300%",
                         opacity: .9,
                         src: function() {
