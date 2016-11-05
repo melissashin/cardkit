@@ -194,10 +194,10 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                             fill: "picker",
                             textAnchor: !0,
                             fontSize: {
-                                "Small (18px)": 18,
-                                "Medium (26px)": 26,
-                                "Large (40px)": 40,
-                                "Extra Large (50px)": 50
+                                "Small (20px)": 20,
+                                "Medium (30px)": 30,
+                                "Large (50px)": 50,
+                                "Extra Large (60px)": 60
                             }
                         }
                     },
@@ -209,6 +209,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                             return a.theme.quote
                         },
                         fontSize: 18,
+                        fontStyle: italic,
                         lineHeight: 22,
                         fontWeight: 300,
                         fontFamily: function() {
