@@ -209,7 +209,6 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                             return a.theme.quote
                         },
                         fontSize: 18,
-                        fontStyle: italic,
                         lineHeight: 22,
                         fontWeight: 300,
                         fontFamily: function() {
