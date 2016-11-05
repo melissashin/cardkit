@@ -176,7 +176,7 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                         fill: function() {
                             return a.theme.quote
                         },
-                        fontSize: 40,
+                        fontSize: 50,
                         fontFamily: function() {
                             return a.theme.headlineFont
                         },
