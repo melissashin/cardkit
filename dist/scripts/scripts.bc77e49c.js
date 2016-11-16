@@ -50,8 +50,8 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
                 "default": !0
             }, {
                 name: "Twitter",
-                width: 650,
-                height: 320
+                width: 500,
+                height: 280
             }, {
                 name: "Video",
                 width: 640,
